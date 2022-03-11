@@ -1,2 +1,2 @@
-# -niversite-Y-netim-Sistemi
+# Universite-Yonetim-Sistemi
 Homework
